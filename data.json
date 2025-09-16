@@ -1,5 +1,6 @@
 {
    "nome": "Alberto",
    "idade": 30,
-    "uf": "ce"
+   "cidade":"Rio de Janeiro",
+       "uf": "ce"
 }
